@@ -22,6 +22,8 @@ GeoGebra 学习笔记、源代码。
     * 截面
         * [圆锥截面](https://www.geogebra.org/m/manggmnj)
         * [立方体截面](https://www.geogebra.org/m/aaeva3am)
+    * 其他
+        * [二面角](https://www.geogebra.org/m/azzqbchj)
 * 函数
     * [一次函数](https://www.geogebra.org/m/wrpxsvfd)
     * [二次函数](https://www.geogebra.org/m/vvfs4sv8)
