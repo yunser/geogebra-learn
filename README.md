@@ -4,22 +4,27 @@ GeoGebra 学习笔记、源代码。
 
 ## 完成
 
+* 几何概念
+    * [角](https://www.geogebra.org/m/ytywe6ab)
+    * 对称
+        * [轴对称图形](https://www.geogebra.org/m/dtynjcf3)
+        * [轴对称三角形](https://www.geogebra.org/m/mhw6te5m)
+        * [中心对称三角形](https://www.geogebra.org/m/b99chbde)
+* 平面几何
+    * 基本图形
+        * [三角形](https://www.geogebra.org/m/g8ccquyp)
+        * [矩形](https://www.geogebra.org/m/kmqust99)
+        * [平行四边形](https://www.geogebra.org/m/rdfbumqc)
+        * [圆形](https://www.geogebra.org/m/fdv94rzm)
+* 立体几何
+    * 基本图形
+        * [立方体](https://www.geogebra.org/m/nywckc5g)
+    * 截面
+        * [圆锥截面](https://www.geogebra.org/m/manggmnj)
+        * [立方体截面](https://www.geogebra.org/m/aaeva3am)
 * 函数
     * [一次函数](https://www.geogebra.org/m/wrpxsvfd)
     * [二次函数](https://www.geogebra.org/m/vvfs4sv8)
-* 基本图形
-    * [三角形](https://www.geogebra.org/m/g8ccquyp)
-    * [矩形](https://www.geogebra.org/m/kmqust99)
-    * [平行四边形](https://www.geogebra.org/m/rdfbumqc)
-    * [圆形](https://www.geogebra.org/m/fdv94rzm)
-* 对称
-    * [轴对称图形](https://www.geogebra.org/m/dtynjcf3)
-    * [轴对称三角形](https://www.geogebra.org/m/mhw6te5m)
-    * [中心对称三角形](https://www.geogebra.org/m/b99chbde)
-* 几何概念
-    * [角](https://www.geogebra.org/m/ytywe6ab)
-* 立体几何
-    * [立方体](https://www.geogebra.org/m/nywckc5g)
 * 练习
     * [加法练习](https://www.geogebra.org/m/qfebyjbd)
     * [随机数](https://www.geogebra.org/m/g5s2v6kf)
@@ -37,7 +42,6 @@ GeoGebra 学习笔记、源代码。
     * [骰子](https://www.geogebra.org/m/s7sftttf)
     * [面动成体-圆锥、圆柱、圆台](https://www.geogebra.org/m/svp5suuy)
     * [点动成面-球体](https://www.geogebra.org/m/yzzzcf46)
-    * [圆锥截面](https://www.geogebra.org/m/manggmnj)
 
 ## TODO
 
