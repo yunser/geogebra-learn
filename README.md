@@ -32,6 +32,7 @@ GeoGebra 学习笔记、源代码。
     * [随机数](https://www.geogebra.org/m/g5s2v6kf)
     * [阴影部分面积](https://www.geogebra.org/m/andm5tdf)
     * [透明度](https://www.geogebra.org/m/urn4za9s)
+    * [使用脚本](https://www.geogebra.org/m/n2dp2m6x)
 * 其他
     * [两圆的位置关系](https://www.geogebra.org/m/qqusks9v)
     * [圆周角是直角](https://www.geogebra.org/m/mru4kybt)
@@ -44,10 +45,12 @@ GeoGebra 学习笔记、源代码。
     * [骰子](https://www.geogebra.org/m/s7sftttf)
     * [面动成体-圆锥、圆柱、圆台](https://www.geogebra.org/m/svp5suuy)
     * [点动成面-球体](https://www.geogebra.org/m/yzzzcf46)
+* 通过编程实现绘制
+    * `src/triangle.html`
+
 
 ## TODO
 
 * 球面三角形
-* 二面角
 * 立体几何的截面
 * 立体几何展开图
