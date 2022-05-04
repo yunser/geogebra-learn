@@ -47,6 +47,7 @@ GeoGebra 学习笔记、源代码。
     * [点动成面-球体](https://www.geogebra.org/m/yzzzcf46)
 * 通过编程实现绘制
     * `src/triangle.html`
+    * `src/button.html`
 
 
 ## TODO
@@ -54,3 +55,8 @@ GeoGebra 学习笔记、源代码。
 * 球面三角形
 * 立体几何的截面
 * 立体几何展开图
+
+
+## 问题
+
+* 如何通过脚本添加按钮事件？

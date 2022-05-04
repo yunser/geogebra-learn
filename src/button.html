@@ -12,14 +12,15 @@
     <div id="ggbApplet"></div>
 
     <script>
+        function myAclickListenerFunction() {
+            ggbApplet.evalCommand('a=3')   
+        }
+
         const commands = `
-A = (0,0)
-B = (4, 3)
-a = Segment(A, B)
-C = (6, 0)
-b = Segment(A, C)
-c = Segment(B, C)
-i = 8`
+a = Slider(0, 4, 0.1)
+a = 2
+A = (a, 0)
+b1 = Button("这是按钮")`
         
 
         const parameters = {
@@ -46,15 +47,10 @@ i = 8`
                  /* api.evalCommand('Segment((1,2),(3,4))');*/ 
 
                 ggbApplet.evalCommand(commands)
-                ggbApplet.setColor('A', 255, 0, 0)
-                ggbApplet.setColor('B', 255, 0, 0)
-                ggbApplet.setColor('C', 255, 0, 0)
-                ggbApplet.setLabelVisible('A', false)
-                ggbApplet.setLabelVisible('B', false)
-                ggbApplet.setLabelVisible('C', false)
-                ggbApplet.setLabelVisible('a', false)
-                ggbApplet.setLabelVisible('b', false)
-                ggbApplet.setLabelVisible('c', false)
+
+                ggbApplet.setCoords('b1', 100, 100)
+                ggbApplet.registerObjectClickListener("b1", "myAclickListenerFunction");
+                // ggbApplet.registerObjectClickListener("b1", "a=3");
 
                 // ggbApplet.setFilling("border20", 0.3)
                 // ggbApplet.setAxesVisible(true, true);
