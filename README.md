@@ -16,6 +16,7 @@ GeoGebra 学习笔记、源代码。
         * [矩形](https://www.geogebra.org/m/kmqust99)
         * [平行四边形](https://www.geogebra.org/m/rdfbumqc)
         * [圆形](https://www.geogebra.org/m/fdv94rzm)
+        * [椭圆](https://www.geogebra.org/m/dma9n4gw)
 * 立体几何
     * 基本图形
         * [立方体](https://www.geogebra.org/m/nywckc5g)
@@ -30,9 +31,11 @@ GeoGebra 学习笔记、源代码。
 * 练习
     * [加法练习](https://www.geogebra.org/m/qfebyjbd)
     * [随机数](https://www.geogebra.org/m/g5s2v6kf)
+    * [序列](https://www.geogebra.org/m/artyafjv)
     * [阴影部分面积](https://www.geogebra.org/m/andm5tdf)
     * [透明度](https://www.geogebra.org/m/urn4za9s)
     * [使用脚本](https://www.geogebra.org/m/n2dp2m6x)
+    * [计数器](https://www.geogebra.org/m/upuwaues)
 * 其他
     * [两圆的位置关系](https://www.geogebra.org/m/qqusks9v)
     * [圆周角是直角](https://www.geogebra.org/m/mru4kybt)
@@ -42,9 +45,11 @@ GeoGebra 学习笔记、源代码。
     * [垂线](https://www.geogebra.org/m/tkstv9zz)
     * [两圆的公切线](https://www.geogebra.org/m/hjkskwet)
     * [圆的周长](https://www.geogebra.org/m/bfnxxj8m)
+    * [圆周率](https://www.geogebra.org/m/r5ehjp88)
     * [骰子](https://www.geogebra.org/m/s7sftttf)
     * [面动成体-圆锥、圆柱、圆台](https://www.geogebra.org/m/svp5suuy)
     * [点动成面-球体](https://www.geogebra.org/m/yzzzcf46)
+    * [椭圆第一定义](https://www.geogebra.org/m/jng4aetx)
 * 通过编程实现绘制
     * `src/triangle.html`
     * `src/button.html`
