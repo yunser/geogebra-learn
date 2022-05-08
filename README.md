@@ -25,9 +25,14 @@ GeoGebra 学习笔记、源代码。
         * [立方体截面](https://www.geogebra.org/m/aaeva3am)
     * 其他
         * [二面角](https://www.geogebra.org/m/azzqbchj)
+        * [面动成体-圆锥、圆柱、圆台](https://www.geogebra.org/m/svp5suuy)
+        * [点动成面-球体](https://www.geogebra.org/m/yzzzcf46)
+        * [立方体堆积](https://www.geogebra.org/m/qcnchnvq)
 * 函数
     * [一次函数](https://www.geogebra.org/m/wrpxsvfd)
     * [二次函数](https://www.geogebra.org/m/vvfs4sv8)
+* 概率
+    * [抛硬币概率](https://www.geogebra.org/m/yup93kgb)
 * 练习
     * [加法练习](https://www.geogebra.org/m/qfebyjbd)
     * [随机数](https://www.geogebra.org/m/g5s2v6kf)
@@ -47,8 +52,6 @@ GeoGebra 学习笔记、源代码。
     * [圆的周长](https://www.geogebra.org/m/bfnxxj8m)
     * [圆周率](https://www.geogebra.org/m/r5ehjp88)
     * [骰子](https://www.geogebra.org/m/s7sftttf)
-    * [面动成体-圆锥、圆柱、圆台](https://www.geogebra.org/m/svp5suuy)
-    * [点动成面-球体](https://www.geogebra.org/m/yzzzcf46)
     * [椭圆第一定义](https://www.geogebra.org/m/jng4aetx)
 * 通过编程实现绘制
     * `src/triangle.html`
@@ -60,6 +63,7 @@ GeoGebra 学习笔记、源代码。
 * 球面三角形
 * 立体几何的截面
 * 立体几何展开图
+* 纯 TypeScript 来编写。
 
 
 ## 问题
